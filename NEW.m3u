@@ -1,0 +1,531 @@
+#EXTM3U
+
+#EXTINF:0,Euronews Россия
+#EXTGRP:новости
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/828/index.m3u8
+
+#EXTINF:-1 group-title="Новости" tvg-id="Настоящее время"  tvg-logo="http://ottpink.network/picons/nastoyacheevrem.png",Настоящее время (ИНОАГЕНТ) VPN
+http://rfe-ingest.akamaized.net/hls/live/2033043/tvmc05/master.m3u8
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Deutsche Welle" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",Deutsche Welle
+https://dwamdstream110.akamaized.net/hls/live/2017971/dwstream110/index.m3u8
+
+#EXTINF:0 group-title="Общие" tvg-id="2399" tvg-logo="http://epg.one/img2/2399.png" tvg-rec="0",Дождь HD
+https://tinyurl.com/aleks-u-romki-40/20083/index.m3u8
+
+#EXTINF:0,Дождь
+#EXTGRP:новости
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/2030/index.m3u8
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="РБК HD" tvg-logo="" group-title="ФЕДЕРАЛЬНЫЕ",РБК HD
+http://online.video.rbc.ru/online/rbctv_1080p/index.m3u8
+
+
+#EXTINF:-1  tvg-id="kvn-tv" ,КВН ТВ
+#EXTGRP:29.РАЗВЛЕКАТЕЛЬНЫЕ
+http://158.101.222.193:88/georgia_play.php?id=kvntv
+
+
+#EXTINF:-1  tvg-id="nostalgia" ,Ностальгия
+#EXTGRP:34.РАЗВЛЕКАТЕЛЬНЫЕ
+http://158.101.222.193:88/georgia_play.php?id=nostalgy
+
+
+#EXTINF:0 tvg-rec="3",ТНТ4 HD
+#EXTGRP:Развлекательные
+http://dff13dfa.ottrast.com/iptv/ZBE628EP2BYBP5/6370/index.m3u8
+
+#EXTINF:0 tvg-id="28" tvg-logo="http://epg.cdntv.online/img/28.png" catchup="shift" catchup-days="3" timeshift="3" group-title="Развлекательные", ТНТ4 HD
+#EXTGRP:Развлекательные
+http://cdntv.online/high/3h98wcmuyi/28.m3u8
+
+
+
+#EXTINF:-1 group-title="Познавательные", Твоë ТВ HD 
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru" tvg-logo="https://epgx.site/p/tvoetv-humor.png" tvg-name="Твое ТВ " group-title="Развлекательный",Твоё ТВ  [1920x1080]
+#EXTVLCOPT:http-user-agent=Donate BTC bc1q2zucynhgqfznfhk48r6ewlmk55z5sw38mqaffe
+https://tvoetv.space/tvoetv_humor/video.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 tvg-id="Kino1.ru@International" tvg-logo="https://i.imgur.com/zsCPLs4.png" group-title="Movies",Кино 1 International [Not 24/7]
+http://kino-1.catcast.tv/content/38617/index.m3u8
+
+
+
+
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",Мосфильм. Золотая коллекция
+#EXTGRP:Кино
+http://stream.mcquack.net/369/index.m3u8
+#EXTINF:-1 group-title="Кино" tvg-rec="7" timeshift="7",BCU СССР
+#EXTGRP:Кино
+http://stream.mcquack.net/488/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-logo="https://iptvx.one/picons/retro-tv.png" tvg-id="retro-tv" tvg-description="Телеканал ретро-кино, музыки и передач прошлых лет.",Ретро
+http://stream.mcquack.net/191/index.m3u8
+
+
+#EXTINF:0 tvg-rec="3",Советская киноклассика HD
+#EXTGRP:кино
+http://b639b845.otttv.pw/iptv/F5GDYXTUM2QBV3/2146/index.m3u8
+
+
+
+
+#EXTINF:0 group-title="Кино" tvg-logo="https://iptvx.one/picons/domkino-premium.png" tvg-id="domkino-premium" tvg-description="Телеканал лучших российских фильмов и сериалов.",Дом Кино Премиум
+http://stream.mcquack.net/108/index.m3u8
+#EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/vip-comedy.png" tvg-id="vip-comedy" tvg-description="Комедии со всего мира (viju+ Comedy).",Comedy
+http://stream.mcquack.net/201/index.m3u8
+
+#EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/vip-megahit.png" tvg-id="vip-megahit" tvg-description="Блокбастеры и кассовые хиты (viju+ Megahit).",Megahit
+http://stream.mcquack.net/200/index.m3u8
+#http://194.32.242.245/vipmegahit/index.m3u8
+
+#EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/vip-premiere.png" tvg-id="vip-premiere" tvg-description="Новинки кино вскоре после проката (viju+ Premiere).",Premiere
+http://stream.mcquack.net/202/index.m3u8
+
+#EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/tv1000.png" tvg-id="tv1000" tvg-description="Голливудские хиты и культовое кино (viju TV1000).",TV 1000
+http://stream.mcquack.net/110/index.m3u8
+
+#EXTINF:0 group-title="Viju" tvg-logo="https://iptvx.one/picons/tv1000-action.png" tvg-id="tv1000-action" tvg-description="Боевики и остросюжетное кино (viju TV1000 action).",TV 1000 Action
+http://stream.mcquack.net/100/index.m3u8
+
+
+#EXTINF:-1 group-title="Cloudflare_Inc",Ностальгия
+http://hls127.freeott.top:8080/Nostalgiya/video.m3u8
+
+
+
+#EXTINF:0 tvg-rec="3",Советская киноклассика HD
+#EXTGRP:Кино
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/2146/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 HD
+#EXTGRP:Кино
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18069/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 2 HD
+#EXTGRP:Кино
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18070/index.m3u8
+#EXTINF:0 tvg-rec="0",Tviksel Кино 1 International
+#EXTGRP:Кино
+http://49cf4bfb.ucomist.net/iptv/PZZHZCVZBL7P7GEXLZNAC9NS/18071/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="retro-tv" tvg-logo="https://iptvx.one/picons/retro-tv.png" group-title="Кино и сериалы",Ретро
+http://176.118.197.101/Retro/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+#EXTINF:0,Мосфильм. Золотая коллекция orig
+#EXTGRP:HD Orig
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/9156/index.m3u8
+#EXTINF:0,Кино 1 HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18069/index.m3u8
+#EXTINF:0,Кино 2 HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18070/index.m3u8
+#EXTINF:0,Кино 1 International
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18071/index.m3u8
+#EXTINF:0,VF Мосфильм
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/10084/index.m3u8
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/10085/index.m3u8
+#EXTINF:0,VF Мультфильмы СССР
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/10086/index.m3u8
+#EXTINF:0,Кинозал! СССР
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/11061/index.m3u8
+#EXTINF:0,BCU СССР HD
+#EXTGRP:HD
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/11026/index.m3u8
+#EXTINF:0,USSR
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/11102/index.m3u8
+#EXTINF:0,TOP USSR HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13005/index.m3u8
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13018/index.m3u8
+#EXTINF:0,минимакс-ussr-комедия HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13019/index.m3u8
+#EXTINF:0,минимакс-ussr-мультфильм HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13020/index.m3u8
+#EXTINF:0,минимакс-ussr-сказки HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13021/index.m3u8
+#EXTINF:0,минимакс-ussr-фантастика HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13022/index.m3u8
+#EXTINF:0,минимакс-ussr-приключения HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13060/index.m3u8
+#EXTINF:0,минимакс-ussr-детектив HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13096/index.m3u8
+#EXTINF:0,Ретро
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/2018/index.m3u8
+#EXTINF:0,минимакс-квартирник HD
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/13035/index.m3u8
+#EXTINF:0,YOSSO TV Советские фильмы
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/14175/index.m3u8
+#EXTINF:0,VF Городок
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18097/index.m3u8
+#EXTINF:0,VF Игра престолов
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18119/index.m3u8
+#EXTINF:0,VF Одесская киностудия
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18120/index.m3u8
+#EXTINF:0,VF Ленфильм
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18121/index.m3u8
+#EXTINF:0,VF Киностудия им. Горького
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18122/index.m3u8
+#EXTINF:0,VF Рижская киностудия
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18123/index.m3u8
+#EXTINF:0,VF Свердловская киностудия
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18124/index.m3u8
+#EXTINF:0,VF Беларусьфильм
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/18125/index.m3u8
+
+
+
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",КВН ТВ
+https://s70378.cdn.ngenix.net/kvn_tv/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",Ностальгия
+https://s70378.cdn.ngenix.net/nostalgia/1/index.m3u8
+#EXTINF:-1 group-title="Современные сетевые технологии (VPN)",RTVI
+https://s70378.cdn.ngenix.net/rtvi/1/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:0 group-title="Кино" tvg-id="8765" tvg-logo="http://epg.one/img2/8765.png" tvg-rec="0",VeleS СССР
+https://tinyurl.com/aleks-u-romki-40/31643/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="17022" tvg-logo="http://epg.one/img2/17022.png" tvg-rec="0",Мосфильм. Золотая коллекция HD (+4)
+https://tinyurl.com/aleks-u-romki-40/17022/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="9002" tvg-logo="http://epg.one/img2/9002.png" tvg-rec="3",Советская киноклассика HD
+https://tinyurl.com/aleks-u-romki-40/2146/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2509" tvg-logo="http://epg.one/img2/2509.png" tvg-rec="3",Любимое HD
+https://tinyurl.com/aleks-u-romki-40/2106/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="2402" tvg-logo="http://epg.one/img2/2402.png" tvg-rec="7",Ретро
+https://tinyurl.com/aleks-u-romki-40/2018/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4667" tvg-logo="http://epg.one/img2/4667.png" tvg-rec="7",VF Мосфильм
+https://tinyurl.com/aleks-u-romki-40/10084/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4670" tvg-logo="http://epg.one/img2/4670.png" tvg-rec="7",VF Фильмы СССР
+https://tinyurl.com/aleks-u-romki-40/10085/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4747" tvg-logo="http://epg.one/img2/4747.png" tvg-rec="7",BCU СССР HD
+https://tinyurl.com/aleks-u-romki-40/11026/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="4695" tvg-logo="http://epg.one/img2/4695.png" tvg-rec="7",Кинозал! СССР
+https://tinyurl.com/aleks-u-romki-40/11061/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5117" tvg-logo="http://epg.one/img2/5117.png" tvg-rec="0",TOP USSR HD
+https://tinyurl.com/aleks-u-romki-40/13005/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5132" tvg-logo="http://epg.one/img2/5132.png" tvg-rec="0",MM USSR Комедия HD
+https://tinyurl.com/aleks-u-romki-40/13019/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5133" tvg-logo="http://epg.one/img2/5133.png" tvg-rec="0",MM USSR Мультфильм HD
+https://tinyurl.com/aleks-u-romki-40/13020/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5134" tvg-logo="http://epg.one/img2/5134.png" tvg-rec="0",MM USSR Сказки HD
+https://tinyurl.com/aleks-u-romki-40/13021/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="8001" tvg-logo="http://epg.one/img2/8001.png" tvg-rec="0",MM USSR Драма HD
+https://tinyurl.com/aleks-u-romki-40/13022/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5570" tvg-logo="http://epg.one/img2/5570.png" tvg-rec="0",MM USSR Приключения HD
+https://tinyurl.com/aleks-u-romki-40/13060/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5209" tvg-logo="http://epg.one/img2/5209.png" tvg-rec="0",MM USSR Детектив HD
+https://tinyurl.com/aleks-u-romki-40/13096/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6226" tvg-logo="http://epg.one/img2/6226.png" tvg-rec="0",VF Городок
+https://tinyurl.com/aleks-u-romki-40/18097/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6284" tvg-logo="http://epg.one/img2/6284.png" tvg-rec="0",VF Comedy Woman
+https://tinyurl.com/aleks-u-romki-40/18101/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6323" tvg-logo="http://epg.one/img2/6323.png" tvg-rec="0",VF Игра престолов
+https://tinyurl.com/aleks-u-romki-40/18119/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6324" tvg-logo="http://epg.one/img2/6324.png" tvg-rec="0",VF Одесская киностудия
+https://tinyurl.com/aleks-u-romki-40/18120/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6325" tvg-logo="http://epg.one/img2/6325.png" tvg-rec="0",VF Ленфильм
+https://tinyurl.com/aleks-u-romki-40/18121/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6326" tvg-logo="http://epg.one/img2/6326.png" tvg-rec="0",VF Киностудия им. Горького
+https://tinyurl.com/aleks-u-romki-40/18122/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6327" tvg-logo="http://epg.one/img2/6327.png" tvg-rec="0",VF Рижская киностудия
+https://tinyurl.com/aleks-u-romki-40/18123/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6328" tvg-logo="http://epg.one/img2/6328.png" tvg-rec="0",VF Свердловская киностудия
+https://tinyurl.com/aleks-u-romki-40/18124/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6329" tvg-logo="http://epg.one/img2/6329.png" tvg-rec="0",VF Беларусьфильм
+https://tinyurl.com/aleks-u-romki-40/18125/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5361" tvg-logo="http://epg.one/img2/5361.png" tvg-rec="0",Yosso TV Советские Фильмы
+https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="5361" tvg-logo="http://epg.one/img2/5361.png" tvg-rec="0",Yosso TV Советские Фильмы
+https://tinyurl.com/aleks-u-romki-40/14175/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6258" tvg-logo="http://epg.one/img2/6258.png" tvg-rec="0",Tviksel Кино 1 International
+https://tinyurl.com/aleks-u-romki-40/18071/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6259" tvg-logo="http://epg.one/img2/6259.png" tvg-rec="0",Tviksel Военное кино HD
+https://tinyurl.com/aleks-u-romki-40/18072/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6260" tvg-logo="http://epg.one/img2/6260.png" tvg-rec="0",Tviksel Детское кино HD
+https://tinyurl.com/aleks-u-romki-40/18073/index.m3u8
+#EXTINF:0 group-title="Кино" tvg-id="6261" tvg-logo="http://epg.one/img2/6261.png" tvg-rec="0",Tviksel Детское кино International
+https://tinyurl.com/aleks-u-romki-40/18074/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6020" tvg-logo="http://epg.one/img2/6020.png" tvg-rec="0",VB ОСП-Cтудия
+https://tinyurl.com/aleks-u-romki-40/16004/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6021" tvg-logo="http://epg.one/img2/6021.png" tvg-rec="0",VB Осторожно Модерн
+https://tinyurl.com/aleks-u-romki-40/16005/index.m3u8
+#EXTINF:0 group-title="Развлекательные" tvg-id="6417" tvg-logo="http://epg.one/img2/6417.png" tvg-rec="0",VF Уральские пельмени
+https://tinyurl.com/aleks-u-romki-40/18198/index.m3u8
+
+
+
+
+
+
+
+
+
+#EXTINF:-1 group-title="Кино" tvg-id="kino1int-tviksel", Кино 1 Int.
+http://213.172.73.132:8081/nimble_live/kino_1_int/playlist.m3u8
+
+#EXTINF:0 tvg-rec="3",Советская киноклассика HD
+#EXTGRP:кино
+http://cb163385.amazzin.pw/iptv/MLLNWFWVC3H9YNUQTDBDHZGK/2146/index.m3u8
+
+#EXTINF:0,MM USSR Приключения HD
+#EXTGRP: кино
+http://ndv27.ottolok.net/iptv/ZPGLC3XBGUNULA/13060/index.m3u8
+
+
+#EXTINF:0 tvg-rec="7",Ретро
+#EXTGRP:Кино
+http://ibaop9pq.russtv.net/iptv/UEXRBPY59W9BB5/2018/index.m3u8
+
+#EXTINF:0 tvg-rec="7",VF Мосфильм
+#EXTGRP:кино
+http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/10084/index.m3u8
+
+
+
+
+
+#EXTINF:0 tvg-rec="0",Yosso TV Советские Фильмы
+#EXTGRP:кино
+http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/14175/index.m3u8
+#EXTINF:0 tvg-rec="7",BCU СССР HD
+#EXTGRP:HD
+http://0a62e624.ottolok.net/iptv/CXRTHB6RR98XYD/11026/index.m3u8
+
+
+
+
+#EXTINF:0,VF Фильмы СССР
+#EXTGRP:кино
+http://rus125456135.ottolok.net/iptv/7VLD6QWR6CN9FQ/10085/index.m3u8
+
+
+
+
+
+
+#EXTINF:-1 group-title="3-Кино",Кино и сериалы
+https://live-vgtrksmotrim.cdnvideo.ru/vgtrksmotrim/smotrim-live-01.smil/tracks-v3a1/mono.m3u8
+
+
+
+#EXTINF:-1 tvg-id="TvoeTV.ru",Твое TV HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+#EXTINF:-1 tvg-id="TvoyeTVYumor.ru",Твое ТВ Юмор
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+
+#EXTINF:-1 tvg-id="tvoetv-humor" tvg-logo="https://iptvx.one/picons/tvoetv-humor.png", Твоё ТВ Юмор (HD)
+http://tvoetv.space:8080/tvoetv_humor/index.m3u8
+
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" tvg-name="Твое ТВ HD" tvg-logo="https://app.playlistbox.com/icon/5YDKwr2BqLzpgZeRDnoVW8J7GyvOXld6.png" group-title="Фильмовые", Твоё ТВ HD
+#EXTGRP:Фильмовые
+https://tvoetv.space/tvoetv/video.m3u8
+
+
+#EXTINF:-1 tvg-id="tvoyo-tv-hd" group-title="Кино и сериалы",Твоё ТВ HD
+http://tvoetv.space:8080/tvoetv/index.m3u8
+
+
+
+#EXTINF:-1 tvg-id="kino-tv" tvg-logo="https://iptvx.one/picons/kino-tv.png" group-title="Кинозал",Кино ТВ (EDTV)
+http://vod.tuva.ru/kinotv/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 group-title="Кино" audio-track="rus" , Любимое кино 
+http://188.225.31.197/bpk-tv/000000283/tve/index.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-id="Kino24.ru" tvg-logo="https://i.imgur.com/QAdDARF.png" group-title="Movies",Kino 24
+http://sirius.greenhosting.ru/Kino24Ru/video.m3u8
+
+#EXTINF:-1 tvg-id="pro100" group-title="Кино и сериалы", Про100 ТВ
+http://sirius.greenhosting.ru/Pro100tvRu/video.m3u8
+
+
+
+
+#EXTINF:-1,Перший
+#EXTGRP:Украинские 
+http://s.only4.tv/0196/video.m3u8?token=UfD3TtuHUk
+#EXTINF:-1,Рада
+#EXTGRP:Украинские 
+http://s.only4.tv/0186/video.m3u8?token=UfD3TtuHUk
+
+#EXTINF:-1 tvg-id="Muzyka1.ru@International" tvg-logo="https://i.imgur.com/DIKe5vA.png" group-title="Music",Музыка 1 International [Not 24/7]
+https://kino-1.catcast.tv/content/37745/index.m3u8
+#EXTINF:-1 tvg-id="MuzykaKino.ru@International" tvg-logo="https://i.imgur.com/2SG0Swa.png" group-title="Music",Музыка Кино International [Not 24/7]
+https://kino-1.catcast.tv/content/37739/index.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="Общие" tvg-id="cctv-ru" , CGTN Русский HD
+http://russian-livews.cgtn.com/hls/LSvexABhNipibK5KRuUkvHZ7220802LSTeze9o8tdFXMHsb1VosgoT220802cd/playlist.m3u8
+
+
+
+#EXTINF:0 group-title="Общие" tvg-id="146" tvg-logo="http://epg.one/img2/983.png" tvg-rec="7",Первый канал FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/2402/index.m3u8
+
+#EXTINF:-1 group-title="Общие", Россия 1
+http://vgtrkregion-reg.cdnvideo.ru/vgtrk/HO3gcQAHbok/russia1-sd/index.m3u8
+
+
+#EXTINF:0 group-title="Новостные" tvg-id="1683" tvg-logo="http://epg.one/img2/1683.png" tvg-rec="7",Россия 24
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/NPS2ABUFFM97ES/507/index.m3u8
+
+
+#EXTINF:-1 group-title="Общие" tvg-id="ntv" , НТВ HD
+http://cdn.ntv.ru/ntv0_hd/tracks-v1a1/rewind-7150.m3u8
+
+#EXTINF:-1  tvg-id="5kanal-ru" ,ПЯТЫЙ КАНАЛ
+#EXTGRP:4.ЭФИРНЫЕ 
+http://31.131.141.195:8000/play/1050/index.m3u8
+
+#EXTINF:-1  tvg-id="otr" ,ОТР
+#EXTGRP:4.ЭФИРНЫЕ 
+http://185.46.16.239:8000/OTR
+
+#EXTINF:-1 group-title="Общие" tvg-id="mir" , Мир
+http://185.46.16.239:8000/Mir
+
+#EXTINF:-1  tvg-id="tvcentr" ,ТВЦ
+#EXTGRP:4.ЭФИРНЫЕ 
+http://31.131.141.195:8000/play/1100/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" , Пятница!
+https://vod.tuva.ru/friday/index.m3u8
+
+#EXTINF:-1 group-title="Развлечение" , Россия Культура
+http://185.46.16.239:8000/Rossiya_K
+
+#EXTINF:-1  tvg-id="sts" ,СТС
+#EXTGRP:4.ЭФИРНЫЕ 
+http://185.46.16.239:8000/STS
+
+#EXTINF:-1 group-title="Развлечение" , ТВ3
+http://185.46.16.239:8000/TV3
+
+#EXTINF:-1 group-title="Развлечение" , ТНТ
+http://185.46.16.239:8000/TNT
+
+#EXTINF:-1 group-title="Общие" tvg-id="rentv" , Рен ТВ
+http://185.46.16.239:8000/REN_TV
+
+#EXTINF:-1 group-title="Общие" tvg-id="zvezda" , Звезда
+http://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
+
+
+
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Мордовия НТМ HD" tvg-logo="https://ntm13.ru/wp-content/uploads/2018/12/unnamed.jpg" group-title="ФЕДЕРАЛЬНЫЕ",Мордовия НТМ HD
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+
+#EXTINF:-1 tvg-id="mordovia-24" tvg-logo="https://iptvx.one/picons/mordovia-24.png" group-title="Региональные",Мордовия 24 (Саранск) (HD ready)
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Izvestia.ru" tvg-logo="https://i.imgur.com/r5HzA6J.png" tvg-name="Известия" group-title="Новости",Известия [1920x1080]
+#EXTVLCOPT:http-user-agent=VLC/3.0.21 LibVLC/3.0.21
+http://85.234.33.63/stream/c11.m3u8
+
+#EXTINF:-1  tvg-id="match-tv"   tvg-name="Матч ТВ",МАТЧ!
+#EXTGRP:33.МАТЧ
+http://31.131.141.195:8000/play/1030/index.m3u8
+
+#EXTINF:0 group-title="Спорт" tvg-id="2052" tvg-logo="http://epg.one/img2/2052.png" tvg-rec="7",Eurosport 1 HD
+https://tinyurl.com/aleks-u-romki-40/228/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="4313" tvg-logo="http://epg.one/img2/4313.png" tvg-rec="7",Eurosport 2 HD
+https://tinyurl.com/aleks-u-romki-40/234/index.m3u8
+#EXTINF:0 group-title="Спорт" tvg-id="2051" tvg-logo="http://epg.one/img2/2051.png" tvg-rec="7",Матч ТВ HD
+https://tinyurl.com/aleks-u-romki-40/212/index.m3u8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
